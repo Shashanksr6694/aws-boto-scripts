@@ -3,8 +3,8 @@ import json
 import re
 from boto3 import client
 
-access_key="AKIAIXF2AZZVCUYPJUTA"
-secret_key="QiaOjMBR0JnSqsXgpE/MzLongkOxqsD0XR6t2+ov"
+access_key=" "                          #Write your aws access key
+secret_key=" "                          #Write your aws secret key
 
 try:
     input = raw_input
